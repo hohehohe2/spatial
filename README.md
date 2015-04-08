@@ -1,2 +1,2 @@
 # spatial
-Fast Kd-Tree implementation etc. For those who can help yourself.
+Fast Kd-Tree implementation (and slow adhoc BVH implementation). For those who can help yourself.
