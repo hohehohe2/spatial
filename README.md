@@ -1,2 +1,5 @@
 # spatial
-Fast Kd-Tree implementation (and slow adhoc BVH implementation) using Eigen. For those who can help yourself.
+Fast Kd-Tree implementation (more accurately 1-d tree but you can modify the code to k-nearest easily) using Eigen.
+Slow adhoc BVH implementation.
+
+For those who can help yourself.
